@@ -1,0 +1,20 @@
+{
+  "apple": {
+    "name": "酸菜鱼🐟️",
+    "price": 10,
+    "desc": "很好吃",
+    "image": "fish.png"
+  },
+  "cake": {
+    "name": "猫猫烧饼🐱",
+    "price": 50,
+    "desc": "哈气中。。。",
+    "image": "cat.png"
+  },
+  "tea": {
+    "name": "低客的黑调巧克力🍫",
+    "price": 30,
+    "desc": "社交的手腕",
+    "image": "black.png"
+  }
+}

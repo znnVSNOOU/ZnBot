@@ -1,0 +1,16 @@
+{
+  "gold": 287,
+  "last_checkin": "20260103",
+  "checkin_history": [
+    "2026-01-02",
+    "2026-01-03"
+  ],
+  "last_lottery": "20260103",
+  "inventory": {},
+  "total_runtime": 16197,
+  "affection": 23,
+  "mood": 64,
+  "chat_counter": 1,
+  "sentiment_model_key": "DeepSeek (官方)",
+  "vision_model_key": "Qwen/Qwen2.5-VL-32B-Instruct（识图）"
+}
